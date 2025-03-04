@@ -1,3 +1,3 @@
 # Spinning pyramid
 
-Short program that shows spinning pyramid in the console window.
+Short program that shows a spinning pyramid in the console window.
